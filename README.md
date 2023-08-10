@@ -42,4 +42,4 @@ This script is provided for educational purposes and may require modifications t
 
 ---
 
-For more information and updates, feel free to contact the script author: [Your Name](mailto:your.email@example.com).
+For more information and updates, feel free to contact the script author: [Ahmad Muhammad](mailto:ahmadmuhammadgd@gmail.com).
