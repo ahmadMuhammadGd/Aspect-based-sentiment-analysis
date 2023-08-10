@@ -1,4 +1,3 @@
-Here's the README file for the provided Python script:
 
 # Aspect-Based Sentiment Analysis for Product Reviews
 
