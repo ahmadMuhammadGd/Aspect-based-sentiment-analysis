@@ -1,5 +1,6 @@
 
 # Aspect-Based Sentiment Analysis for Product Reviews
+![image](https://github.com/ahmadMuhammadGd/Aspect-based-sentiment-analysis/assets/121247258/ba4947b1-eaac-4e7d-a1eb-9389a3c711b7)
 
 This Python script performs Aspect-Based Sentiment Analysis on product reviews scrapped from a website. It uses the `requests` library to fetch review data, `BeautifulSoup` for parsing HTML, `pandas` for data manipulation, and the Hugging Face `transformers` library for sentiment analysis and aspect classification.
 
